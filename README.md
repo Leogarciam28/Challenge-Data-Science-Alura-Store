@@ -37,7 +37,7 @@ La Tienda 4 es la candidata a vender por:
 - Jupyter Notebook / Google Colab
 
 🚀 Ejecución
-1. Clonar el repositorio. 
+1. Clonar el repositorio: https://github.com/Leogarciam28/Challenge-Data-Science-Alura-Store.git
 2. Abrir `AluraStoreLatam.ipynb` en Google Colab o Jupyter Notebook.
 3. Ejecutar todas las celdas.
 4. Revisar `Informe_Final_AluraStore.md` para la recomendación final.
